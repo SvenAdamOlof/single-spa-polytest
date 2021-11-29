@@ -1,0 +1,1 @@
+(cd article && npm i &)  && (cd footer && npm i &) && (cd header && npm i &) && (cd counter && npm i &) && (cd root-config && npm i &)
